@@ -35,9 +35,9 @@ public class EnderIOAddons implements InitAware {
   @Nonnull
   public static final String MOD_NAME = "Ender IO Addons";
   @Nonnull
-  public static final String VERSION = "@VERSION@";
+  public static final String VERSION = "0.10.14-rpgA";
   @Nonnull
-  public static final String ENDERIO_VERSION = "@enderio_version@";
+  public static final String ENDERIO_VERSION = "2.10.25";
   @Nonnull
   public static final String UPDATE_URL = "http://enderioaddons.loenwind.info/versioninfo_" + ENDERIO_VERSION + ".json?" + VERSION;
 

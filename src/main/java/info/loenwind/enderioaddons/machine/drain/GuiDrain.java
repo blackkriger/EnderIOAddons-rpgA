@@ -38,7 +38,6 @@ public class GuiDrain extends GuiEIOABase<TileDrain> {
     });
   }
 
-  @Override
   protected boolean showRecipeButton() {
     return false;
   }

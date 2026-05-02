@@ -41,7 +41,6 @@ public class GuiVoidTank extends GuiEIOABase<TileVoidTank> {
     });
   }
 
-  @Override
   protected boolean showRecipeButton() {
     return false;
   }

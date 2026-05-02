@@ -22,7 +22,7 @@ import codechicken.nei.recipe.TemplateRecipeHandler;
 import com.enderio.core.client.render.EnderWidget;
 
 import crazypants.enderio.gui.IconEIO;
-import crazypants.enderio.machine.power.PowerDisplayUtil;
+import crazypants.enderio.power.PowerDisplayUtil;
 
 public class MagChargerRecipeHandler extends TemplateRecipeHandler {
 

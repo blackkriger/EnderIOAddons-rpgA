@@ -17,7 +17,6 @@ public class GuiMagCharger extends GuiEIOABase<TileMagCharger> {
     super(te, new ContainerMagCharger(par1InventoryPlayer, te));
   }
 
-  @Override
   protected boolean showRecipeButton() {
     return true;
   }

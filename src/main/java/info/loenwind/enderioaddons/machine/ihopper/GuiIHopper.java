@@ -51,7 +51,6 @@ public class GuiIHopper extends GuiEIOABase<TileIHopper> {
     return 9;
   }
 
-  @Override
   protected boolean showRecipeButton() {
     return false;
   }

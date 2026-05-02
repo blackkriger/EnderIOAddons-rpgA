@@ -2,7 +2,7 @@
 {
   "modid": "enderioaddons",
   "name": "Ender IO Addons",
-  "description": "Additional machines for Ender IO.",
+  "description": "Additional machines for Ender IO, now working with GTNH version",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "http://enderioaddons.loenwind.info",

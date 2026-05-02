@@ -16,7 +16,6 @@ public class GuiCobbleworks extends GuiEIOABase<TileCobbleworks> {
     super(te, new ContainerCobbleworks(par1InventoryPlayer, te));
   }
 
-  @Override
   protected boolean showRecipeButton() {
     return false;
   }

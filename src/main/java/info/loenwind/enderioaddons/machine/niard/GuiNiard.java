@@ -41,7 +41,6 @@ public class GuiNiard extends GuiEIOABase<TileNiard> {
     });
   }
 
-  @Override
   protected boolean showRecipeButton() {
     return false;
   }

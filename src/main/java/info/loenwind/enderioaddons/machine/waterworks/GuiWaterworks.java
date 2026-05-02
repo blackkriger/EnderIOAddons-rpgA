@@ -78,7 +78,6 @@ public class GuiWaterworks extends GuiEIOABase<TileWaterworks> {
     return 9;
   }
 
-  @Override
   protected boolean showRecipeButton() {
     return false;
   }

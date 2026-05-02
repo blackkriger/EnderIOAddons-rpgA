@@ -102,7 +102,6 @@ public class GuiAfarm extends GuiEIOABase<TileAfarm> {
     super.actionPerformed(btn);
   }
 
-  @Override
   protected boolean showRecipeButton() {
     return false;
   }

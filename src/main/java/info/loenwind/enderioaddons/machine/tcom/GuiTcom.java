@@ -173,7 +173,6 @@ public class GuiTcom extends GuiEIOABase<TileTcom> {
     }
   }
 
-  @Override
   protected boolean showRecipeButton() {
     return false;
   }
