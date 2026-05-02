@@ -61,3 +61,7 @@ jar {
         exclude 'META-INF/MANIFEST.MF', 'META-INF/*.SF', 'META-INF/*.DSA', 'META-INF/*.RSA', 'module-info.class'
     }
 }
+
+java {
+    withSourcesJar()
+}
